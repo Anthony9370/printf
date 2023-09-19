@@ -53,7 +53,7 @@ int _printf(const char *format, ...)
 }
 
 /**
- * print_buffer - Prints the contents of the buffer 
+ * print_buffer - Prints the contents of the buffer
  * @buffer: function parameter 1
  * @buff_ind: function parameter 2
  */
